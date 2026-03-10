@@ -1,0 +1,256 @@
+{
+  "version": 1,
+  "base_track": "STAY GOLD",
+  "base_artist": "__（アンダーバー）",
+  "createdAt": "2026-03-10T19:17:15.813310Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Stay Gold",
+      "artist": "Camille Jones",
+      "has_synced": false,
+      "path": "select/01_Stay_Gold_Camille_Jones.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Stay Gold",
+      "artist": "The Apples In Stereo",
+      "has_synced": false,
+      "path": "select/02_Stay_Gold_The_Apples_In_Stereo.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Stay Gold",
+      "artist": "Hater",
+      "has_synced": false,
+      "path": "select/03_Stay_Gold_Hater.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Stay Gold",
+      "artist": "PVRIS",
+      "has_synced": true,
+      "path": "select/04_Stay_Gold_PVRIS.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Stay Gold",
+      "artist": "First Aid Kit",
+      "has_synced": true,
+      "path": "select/05_Stay_Gold_First_Aid_Kit.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Stay Gold - From \"The Outsiders\" Soundtrack",
+      "artist": "Stevie Wonder",
+      "has_synced": true,
+      "path": "select/06_Stay_Gold_-_From__The_Outsiders__Soundtrack_Stevie_Wonder.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Stay Gold",
+      "artist": "Stevie Wonder",
+      "has_synced": false,
+      "path": "select/07_Stay_Gold_Stevie_Wonder.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Stay Gold, Ponyboy",
+      "artist": "The Get Up Kids",
+      "has_synced": true,
+      "path": "select/08_Stay_Gold,_Ponyboy_The_Get_Up_Kids.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Stay Gold",
+      "artist": "The Isley Brothers",
+      "has_synced": false,
+      "path": "select/09_Stay_Gold_The_Isley_Brothers.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Stay Gold",
+      "artist": "Run The Jewels",
+      "has_synced": true,
+      "path": "select/10_Stay_Gold_Run_The_Jewels.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Stay Gold",
+      "artist": "Black Pumas",
+      "has_synced": true,
+      "path": "select/11_Stay_Gold_Black_Pumas.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Stay Gold - Live from Capitol Studio A",
+      "artist": "Black Pumas",
+      "has_synced": true,
+      "path": "select/12_Stay_Gold_-_Live_from_Capitol_Studio_A_Black_Pumas.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Stay Gold",
+      "artist": "BTS",
+      "has_synced": true,
+      "path": "select/13_Stay_Gold_BTS.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Stay Gold [MusicBaran]",
+      "artist": "BTS",
+      "has_synced": true,
+      "path": "select/14_Stay_Gold_[MusicBaran]_BTS.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Stay Gold (from “The Outsiders” soundtrack)",
+      "artist": "Stevie Wonder",
+      "has_synced": true,
+      "path": "select/15_Stay_Gold_(from_“The_Outsiders”_soundtrack)_Stevie_Wonder.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "STAY (with Justin Bieber)",
+      "artist": "The Kid LAROI feat. Justin Bieber",
+      "has_synced": true,
+      "path": "select/16_STAY_(with_Justin_Bieber)_The_Kid_LAROI_feat._Justin_Bieber.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Don't You Wanna Stay",
+      "artist": "Kelly Clarkson with Jason Aldean",
+      "has_synced": false,
+      "path": "select/17_Don't_You_Wanna_Stay_Kelly_Clarkson_with_Jason_Aldean.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Hard to Stay Mad At",
+      "artist": "Tim McGraw",
+      "has_synced": true,
+      "path": "select/18_Hard_to_Stay_Mad_At_Tim_McGraw.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "I Think I ll Just Stay Here And Drink (Re-Recorded)",
+      "artist": "Merle Haggard",
+      "has_synced": false,
+      "path": "select/19_I_Think_I_ll_Just_Stay_Here_And_Drink_(Re-Recorded)_Merle_Haggard.txt"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "I Think I'll Just Stay Here and Drink",
+      "artist": "Merle Haggard",
+      "has_synced": false,
+      "path": "select/20_I_Think_I'll_Just_Stay_Here_and_Drink_Merle_Haggard.txt"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "I Think I'll Just Stay Here And Drink",
+      "artist": "Merle Haggard",
+      "has_synced": true,
+      "path": "select/21_I_Think_I'll_Just_Stay_Here_And_Drink_Merle_Haggard.lrc"
+    },
+    {
+      "id": "lrclib_22",
+      "source": "lrclib",
+      "title": "I Think I'll Just Stay Here And Drink - Re-Recorded In Stereo",
+      "artist": "Merle Haggard",
+      "has_synced": false,
+      "path": "select/22_I_Think_I'll_Just_Stay_Here_And_Drink_-_Re-Recorded_In_Stereo_Merle_Haggard.txt"
+    },
+    {
+      "id": "lrclib_23",
+      "source": "lrclib",
+      "title": "I Think I'll Just Stay Here And Drink (Re-Recorded In Stereo)",
+      "artist": "Merle Haggard",
+      "has_synced": false,
+      "path": "select/23_I_Think_I'll_Just_Stay_Here_And_Drink_(Re-Recorded_In_Stereo)_Merle_Haggard.txt"
+    },
+    {
+      "id": "lrclib_24",
+      "source": "lrclib",
+      "title": "My Arms Stay Open All Night",
+      "artist": "Tanya Tucker",
+      "has_synced": true,
+      "path": "select/24_My_Arms_Stay_Open_All_Night_Tanya_Tucker.lrc"
+    },
+    {
+      "id": "lrclib_25",
+      "source": "lrclib",
+      "title": "Say You'll Stay Until Tomorrow",
+      "artist": "Tom Jones",
+      "has_synced": true,
+      "path": "select/25_Say_You'll_Stay_Until_Tomorrow_Tom_Jones.lrc"
+    },
+    {
+      "id": "lrclib_26",
+      "source": "lrclib",
+      "title": "Stay",
+      "artist": "Sugarland",
+      "has_synced": true,
+      "path": "select/26_Stay_Sugarland.lrc"
+    },
+    {
+      "id": "lrclib_27",
+      "source": "lrclib",
+      "title": "Stay A Little Longer",
+      "artist": "Brothers Osborne",
+      "has_synced": true,
+      "path": "select/27_Stay_A_Little_Longer_Brothers_Osborne.lrc"
+    },
+    {
+      "id": "lrclib_28",
+      "source": "lrclib",
+      "title": "Stay All Night (Stay a Little Longer)",
+      "artist": "Bob Wills",
+      "has_synced": false,
+      "path": "select/28_Stay_All_Night_(Stay_a_Little_Longer)_Bob_Wills.txt"
+    },
+    {
+      "id": "lrclib_29",
+      "source": "lrclib",
+      "title": "Stay Blessed",
+      "artist": "Ross Copperman",
+      "has_synced": true,
+      "path": "select/29_Stay_Blessed_Ross_Copperman.lrc"
+    },
+    {
+      "id": "lrclib_30",
+      "source": "lrclib",
+      "title": "Stay Downtown",
+      "artist": "Cole Swindell",
+      "has_synced": true,
+      "path": "select/30_Stay_Downtown_Cole_Swindell.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "STAY GOLD",
+      "artist": "__(アンダーバー)",
+      "has_synced": false,
+      "path": "select/pl_01_STAY_GOLD_(アンダーバー).txt"
+    }
+  ]
+}
